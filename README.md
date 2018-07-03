@@ -34,7 +34,7 @@ From the browser navigate to http://localhost:3000/ to see the app in action.
 https://debikadutt.github.io/fifa-standings-app/
 
 # Screenshot: 
-![Home page](https://github.com/debikadutt/fifa-standings-app/blob/master/src/fifa-2018.JPG)
+![Home page](https://github.com/debikadutt/fifa-standings-app/blob/gh-pages/src/images/fifa-2018.JPG)
 
 # Built With
 •	Visual Studio Code
